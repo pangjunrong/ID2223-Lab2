@@ -1,4 +1,4 @@
-# Pang Jun Rong ID2223 Lab 2 Submission
+# Pang Jun Rong & Lachun Li - ID2223 Lab 2 Submission
 
 ## Testing UI (Task 1)
 ### Microphone/Upload Audio
@@ -9,7 +9,8 @@ to<br>
 
 ### TikTok Transcribing
 You can use the following Swedish TikToks to observe how the model transcribes pre-recorded videos:
-https://www.tiktok.com/@svenskamedanastasia/video/7170736029102591238?q=svenska&t=1701867819429
+https://www.tiktok.com/@svenskamedanastasia/video/7170736029102591238
+https://www.tiktok.com/@svenskamedanastasia/video/7209361962831072518
 
 ## Model-Centric Approach
 ### Hyperparameter Tuning
